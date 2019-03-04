@@ -41,6 +41,10 @@
         <li>
             <a href=""><i class="fa fa-user"></i> Users</a>
         </li>
+
+        <li>
+            <a href="{{ route('home') }}"><i class="fa fa-arrow-left"></i> Blog</a>
+        </li>
       </ul>
     </section>
     <!-- /.sidebar -->
